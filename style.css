@@ -1,0 +1,43 @@
+h1{
+    color:teal;
+    text-align: center;
+}
+h2{
+    color: darkred;
+    text-align:center;
+}
+h3{
+    text-align: center;
+    color: crimson;
+
+}
+.first{
+    text-align: center;
+}
+#pic{
+    margin: auto;
+    display: block;
+}
+p,ol,ul{
+    height: 150px;
+    width: 960px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+
+}
+form{
+    background-color: cadetblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+
+
